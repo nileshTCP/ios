@@ -8,6 +8,8 @@
 import UIKit
 import SwiftyJSON
 
+true
+
 var fromNotification = false
 
 class appointmentviewcell : UITableViewCell {
